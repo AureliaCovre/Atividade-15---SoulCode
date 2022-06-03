@@ -9,3 +9,5 @@ Nessa atividade foi solicitado a criação de um código Orientado a Objetos (PO
 
 
 *Obs: não é necessário utilizar um banco de dados, todos os dados podem ser armazenados na RAM
+
+@autor: Aurélia Covre e Joyce Meireles
