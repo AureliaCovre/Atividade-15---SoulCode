@@ -6,6 +6,6 @@ Nessa atividade foi solicitado a criação de um código Orientado a Objetos (PO
 
 *Obs: não é necessário utilizar um banco de dados, todos os dados podem ser armazenados na RAM
 
-#### Nota: Atividade realizada durante o Bootcamp de Engenharia de dados na SoulCode Academy. 
+##### Nota: Atividade realizada durante o Bootcamp de Engenharia de dados na SoulCode Academy. 
 
 @autor: Aurélia Covre e Joyce Meireles
