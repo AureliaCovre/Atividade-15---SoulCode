@@ -1,7 +1,3 @@
- Atividade 15 - SoulCode
- 
-Atividade realizada durante o Bootcamp de Engenharia de dados na SoulCode Academy. 
-
 Nessa atividade foi solicitado a criação de um código Orientado a Objetos (POO), utilizando todos os recursos apresentados conforme necessário. Este deve:
 - Permitir o cadastro produtos, clientes, funcionários e vendas
 - Os produtos possuem estoques, quando vendas ocorrem o estoque deve ser reduzido
@@ -9,5 +5,7 @@ Nessa atividade foi solicitado a criação de um código Orientado a Objetos (PO
 
 
 *Obs: não é necessário utilizar um banco de dados, todos os dados podem ser armazenados na RAM
+
+#### Nota: Atividade realizada durante o Bootcamp de Engenharia de dados na SoulCode Academy. 
 
 @autor: Aurélia Covre e Joyce Meireles
